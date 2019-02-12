@@ -191,7 +191,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 234716105}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.9999999
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1628,8 +1628,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   launcherVersionInfoURL: ftp://172.193.56.42/Launcher/VersionInfo.info
   mainAppVersionInfoURL: ftp://172.193.56.42/MainApp/VersionInfo.info
-  mainAppSubdirectory: Main
-  mainAppExecutable: MainApp.exe
+  mainAppSubdirectory: mmoclient
+  mainAppExecutable: mmoclient.exe
   logToConsole: 0
   versionInfoRSA: 
   patchInfoRSA: 
